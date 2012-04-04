@@ -1,0 +1,1 @@
+[Go to the wiki!](http://github.com/cpj/guides/wiki)
